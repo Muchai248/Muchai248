@@ -26,7 +26,7 @@ I work on server-side software.I ensure the website performs correctly, focusing
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:30px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:30px;" />][webdevplaylist]
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:30px;" />][webdevplaylist]
 [<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:30px;" />][cssplaylist]
 [<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:30px;" />][cssplaylist]
