@@ -1,6 +1,6 @@
 # Mark Muchai 
 
-<!--
+<
 **Tech Craftsman(Backend Developer/Side-server)** 
 
 I work on server-side software.I ensure the website performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers. I generate code that helps browsers communicate with databases, store, understand, and delete data. 
@@ -56,5 +56,6 @@ I work on server-side software.I ensure the website performs correctly, focusing
 
 
 
-- ⚡ Fun fact: ...
+#⚡ Fun fact
+I am a Gamer
 -->
