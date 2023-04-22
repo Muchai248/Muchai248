@@ -39,6 +39,7 @@ I work on server-side software.I ensure the website performs correctly, focusing
 <br />
 <br />
 
+-----
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/motion-canvas/examples/issues/3) in [motion-canvas/examples](https://github.com/motion-canvas/examples)
 2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
