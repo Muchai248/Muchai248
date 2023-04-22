@@ -31,7 +31,7 @@ I work on server-side software.I ensure the website performs correctly, focusing
 ![](https://github-contributor-stats.vercel.app/api?username=Muchai248&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Muchai248&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MuchaiTech&label=Profile%20Views&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 <br />
 
