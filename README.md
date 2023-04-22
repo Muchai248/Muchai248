@@ -15,8 +15,8 @@ I work on server-side software.I ensure the website performs correctly, focusing
 -### Connect with me
 
 
-[![website](![image](https://user-images.githubusercontent.com/91920911/233780722-d7575df6-b42a-4ed4-8797-70237a885cb0.png)
-](https://twitter.com/Mr_Tea254#gh-dark-mode-only)
+(![image](https://user-images.githubusercontent.com/91920911/233780722-d7575df6-b42a-4ed4-8797-70237a885cb0.png)
+](https://https://twitter.com/Mr_Tea254#gh-light-mode-only)
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
