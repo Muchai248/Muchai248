@@ -15,15 +15,15 @@ I work on server-side software.I ensure the website performs correctly, focusing
 ### Connect with me
 
 
-(![image](https://user-images.githubusercontent.com/91920911/233780722-d7575df6-b42a-4ed4-8797-70237a885cb0.png)
+![image](https://user-images.githubusercontent.com/91920911/233780722-d7575df6-b42a-4ed4-8797-70237a885cb0.png)
 ](https://https://twitter.com/Mr_Tea254#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+(./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+(./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+(./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+(./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+
 <br />
 <br />
 
