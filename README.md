@@ -12,15 +12,12 @@ I work on server-side software.I ensure the website performs correctly, focusing
 - 💬 Ask me about Data managemnt and how to make money with data ...
 
 
-### Connect with me
+-### Connect with me
 
 
 (![image](https://user-images.githubusercontent.com/91920911/233780722-d7575df6-b42a-4ed4-8797-70237a885cb0.png)
 ](https://https://twitter.com/Mr_Tea254#gh-light-mode-only)
-(![image](https://user-images.githubusercontent.com/91920911/233780991-34ff9eed-45d5-418a-a846-b2d374e0ad4b.png)
-)](https://www.linkedin.com/in/mark-muchai-7944a2236#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
+(./img/linkedin-light.svg)](https://www.linkedin.com/in/mark-muchai-7944a2236#gh-light-mode-only)
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 <br />
