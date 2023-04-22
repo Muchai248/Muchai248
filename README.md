@@ -19,9 +19,8 @@ I work on server-side software.I ensure the website performs correctly, focusing
 ](https://https://twitter.com/Mr_Tea254#gh-light-mode-only)
 (./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-(./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-(./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/91920911/233781428-6d1e98eb-74ae-4c67-bea9-131d0b6e6c6b.png)
+)](https://www.linkedin.com/in/mark-muchai-7944a2236#gh-light-mode-only)
 (./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 
 <br />
