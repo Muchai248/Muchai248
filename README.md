@@ -38,7 +38,6 @@ I work on server-side software.I ensure the website performs correctly, focusing
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<a href="https://github.com/Muchai248/Muchai248/blob/main/README.md/github-readme-activity-graph"><img alt="Mark Muchai's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Muchai248_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 -----
 <!--START_SECTION:activity-->
