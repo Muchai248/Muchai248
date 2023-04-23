@@ -97,6 +97,7 @@ I work on server-side software.I ensure the website performs correctly, focusing
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Muchai248&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 -----
 <!--START_SECTION:activity-->
