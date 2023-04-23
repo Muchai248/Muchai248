@@ -21,8 +21,9 @@ I work on server-side software.I ensure the website performs correctly, focusing
 
 # 💻 Languages and tools:
 
-**Main languages
+##Main languages
 <br/>
+
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
@@ -31,7 +32,7 @@ I work on server-side software.I ensure the website performs correctly, focusing
 <br/>
 
 
-**🧰 Frameworks and Libraries
+##🧰 Frameworks and Libraries
  
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
