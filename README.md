@@ -21,7 +21,7 @@ I work on server-side software.I ensure the website performs correctly, focusing
 
 # 💻 Languages and tools:
 
-##Main languages
+Main languages
 <br/>
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) 
@@ -32,7 +32,7 @@ I work on server-side software.I ensure the website performs correctly, focusing
 <br/>
 
 
-##🧰 Frameworks and Libraries
+🧰 Frameworks and Libraries
  
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
@@ -55,10 +55,12 @@ I work on server-side software.I ensure the website performs correctly, focusing
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
 
 <br/>
-**Other Tools
+Other Tools
+
+<br/>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-
+--=--
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Muchai248&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
